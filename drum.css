@@ -23,6 +23,7 @@ h1{
 .drum{
    height: 130px;
    width: 130px;
+   margin-bottom:12px;
    margin: 34px;
    border: solid 8px rgba(35, 88, 202, 0.726);
    border-radius: 10px;
